@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Malavika-Anand
-- 👀 I’m interested in Computer Networks and Cyber Security.
-- 🌱 Completed BE in Information Science and Engineering.
-- Currently pursuing MS in Software Engineering at Arizona State University.
+- Hi, I’m @Malavika-Anand
+- I’m interested in Computer Networks and Cyber Security.
+- Completed BE in Information Science and Engineering.
+- Graduated with a  Masters degree in Software Engineering from Arizona State University.
 
 
 <!---
